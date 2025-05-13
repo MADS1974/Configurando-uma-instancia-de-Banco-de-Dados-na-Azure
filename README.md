@@ -91,7 +91,8 @@ A interface do portal do Microsoft Azure oferece uma visão centralizada de todo
   - [Documentação do GitHub](https://docs.github.com/).
   - [GitHub Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## ✅ Toda implementação deste código foi feita seguindo boas práticas de programação orientada a objetos e seguindo as orientações do Expert <www.dio.me>
+## ✅ Toda implementação deste código foi feita seguindo as orientações da especialista Valéria Baptista 
+em www.dio.me
 
 ### Follow me
 
